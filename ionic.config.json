@@ -1,0 +1,14 @@
+{
+  "name": "com.lit.msal015sample",
+  "app_id": "af3d408c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://localhost/memwebapi"
+    }
+  ]
+}
