@@ -113,7 +113,6 @@
         <variable name="DEEPLINK_5_HOST" value=" " />
     </plugin>
     <plugin name="cordova-plugin-inappbrowser" spec="~1.7.2" />
-    <engine name="android" spec="~5.2.2" />
     <plugin name="cordova-plugin-ionic" spec="~3.1.2">
         <variable name="APP_ID" value="af3d408c" />
         <variable name="CHANNEL_NAME" value="Master" />
